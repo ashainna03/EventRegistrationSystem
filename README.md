@@ -31,4 +31,4 @@ This is a C# Console Application that manages event registrations using file han
 2. Press CTRL + F5
 
 ## Developer
-Your Name Here
+Ashainna Jhan Nina A. Ramas
